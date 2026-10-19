@@ -1,0 +1,6 @@
+{
+  "name": "CBZ Manga & Comic Text Extractor",
+  "description": "Extract images from CBZ manga, comic, and manhwa archives, view pages, extract clean dialogue in proper reading order, filter watermarks and extra pages, and export to EPUB or TXT.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
